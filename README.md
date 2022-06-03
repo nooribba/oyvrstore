@@ -1,6 +1,5 @@
 # OY VR STORE:올리브영 가상 매장
-
-## Description
+## 2017 OYIT OT&amp;OT Project
 
 ### a-frame 기반 vr 매장
 
